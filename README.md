@@ -12,8 +12,8 @@
 ## Flex Box (CSS)
 ## Positioning (CSS)
 ## CSS Box Model 
-# Padding
-# Margin
-# Border
+### Padding
+### Margin
+### Border
 ## Media Query 
 ## CSS Grid

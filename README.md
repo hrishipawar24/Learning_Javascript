@@ -13,7 +13,7 @@
 - ## Positioning (CSS)
 - ## CSS Box Model 
 - ### Padding-
-### Margin
-### Border
+- ### Margin-
+- ### Border-
 - ## Media Query 
 - ## CSS Grid

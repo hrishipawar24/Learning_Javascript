@@ -12,7 +12,7 @@
 - ## Flex Box (CSS)
 - ## Positioning (CSS)
 - ## CSS Box Model 
-_ ### Padding _
+- ### Padding -
 ### Margin
 ### Border
 - ## Media Query 

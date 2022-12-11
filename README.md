@@ -1,4 +1,4 @@
-# Learning Javascript
+# ** Learning Javascript **
 ## Javascript Some Programs for Practice
 ### Topics
 - **Array**

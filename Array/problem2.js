@@ -1,6 +1,7 @@
-/*6 Aug 2022
+/*
 Problem 2 : Given a character in lower case print the upper case character
-*/let char="j";
+*/
+let char="j";
 
 let lower=["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"];
 

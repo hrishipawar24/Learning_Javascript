@@ -1,4 +1,4 @@
-/*1 Augest 2022
+/*
 Problem 1: If the number is divisible by 3, print a "multiple of 3".
 */
 let N=60;

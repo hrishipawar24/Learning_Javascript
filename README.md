@@ -5,6 +5,8 @@
 - **Mathematical Operator**
 - **Relational Operator**
 - **Conditional Statement**
+- **Logical Operator**
+- **While Loop**
 - **Array**
 - **Object**
 

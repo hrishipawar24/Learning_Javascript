@@ -3,6 +3,8 @@
 ### Topics
 - **Introduction to Js**
 - **Mathematical Operator**
+- **Relational Operator**
+- **Conditional Statement**
 - **Array**
 - **Object**
-- **Conditional Statement**
+

@@ -8,6 +8,7 @@
 - **Logical Operator**
 - **While Loop**
 - **For Loop**
+- **Nested Loops**
 - **Array**
 - **String**
 - **Object**

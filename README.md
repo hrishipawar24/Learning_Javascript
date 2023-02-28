@@ -14,4 +14,4 @@
 - **Object**
 - **Function**
 - **Object Method**
-- **Multi Dimensioal Array**
+- **Multi Dimensional Array**

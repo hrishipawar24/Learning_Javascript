@@ -11,4 +11,6 @@
 - **Array**
 - **String**
 - **Object**
-
+- **Function**
+- **Object Method**
+- **Multi Dimensioal Array**

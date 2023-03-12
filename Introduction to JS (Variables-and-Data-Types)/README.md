@@ -1,4 +1,4 @@
-## Problem 1  
+## Problem: 1  
 Print "My School" in the console followed by "A Transformation in Education" in next line
 ## Problem 2 
 Define a variable called name with your Name as the assigned value

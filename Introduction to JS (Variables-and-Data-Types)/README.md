@@ -15,7 +15,7 @@ Print the value stored in the variable name
 3.Print the values stored in the variable on one line followed by the type of the variable in the next line
 
 
-## Problem: 4
+## Problem:- 4
 Store the name, school, grade, section, rollno and the marks scored by the student in 3 subjects
 Print the report card of the student 
 

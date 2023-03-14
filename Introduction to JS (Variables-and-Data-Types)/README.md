@@ -19,4 +19,4 @@ Print the value stored in the variable name
 Store the name, school, grade, section, rollno and the marks scored by the student in 3 subjects
 Print the report card of the student 
 
-(You can make it look nice by using some keyboard symbols )
+(You can make it look nice by using some keyboard symbols. )

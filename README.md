@@ -1,6 +1,6 @@
 # ** Learning Javascript **
 ## Javascript Some Programs for Practice
-### Topics:-
+### Topics :-
 - **Introduction to Js**
 - **Mathematical Operator**
 - **Relational Operator**

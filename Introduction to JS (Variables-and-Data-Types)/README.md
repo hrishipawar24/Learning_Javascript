@@ -1,4 +1,4 @@
-# Introduction to JS (Variables-and-Data-Types)
+# *Introduction to JS (Variables-and-Data-Types)
 ## Problem:- 1  
 Print "My School" in the console followed by "A Transformation in Education" in next line
 ## Problem:- 2 

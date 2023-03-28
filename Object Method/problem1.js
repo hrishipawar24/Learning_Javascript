@@ -1,5 +1,4 @@
-/* 
-Problem
+/* Problem
 Create an object with the following functionality
 
 Ability to add student details and 3 subject marks

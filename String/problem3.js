@@ -1,5 +1,5 @@
-/*
-Problem 3 : Given an array of string count the overall total number of characters
+/*Problem 3 : 
+Given an array of string count the overall total number of characters
 */
 
 let arr=["chuunu","mannu","pannu","kunnu"];

@@ -7,3 +7,4 @@
      Given a string in lower case convert it to upper case.
      
 # Problem 3 :-
+     Given an array of string count the overall total number of characters.

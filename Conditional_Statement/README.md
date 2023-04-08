@@ -6,6 +6,7 @@
          If a person is allowed to drive in India print "Apply for a license" or "NA".
          
 ## Problem 3:-
-Given 2 numbers a and b print which is greater or "both equal".
+         Given 2 numbers a and b print which is greater or "both equal".
+         
 ## Problem 4:-
-Given stored username and password and input username and password, Print if the user can login or not.
+        Given stored username and password and input username and password, Print if the user can login or not.

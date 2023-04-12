@@ -4,5 +4,4 @@
 
 # Problem 2 -
 
- *Create a rectangle object with length and width properties
-Create two methods area and perimeter, that will return the area and perimeter of the rectangle*/
+              *Create a rectangle object with length and width properties Create two methods area and perimeter, that will return the area and perimeter of the rectangle

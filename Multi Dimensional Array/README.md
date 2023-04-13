@@ -3,4 +3,4 @@
 
 
  # Problem 2
-Given a matrix print it in the form of a snake
+           Given a matrix print it in the form of a snake

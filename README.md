@@ -7,7 +7,7 @@
 - **[Conditional Statement](https://github.com/hrishipawar24/Learning_Javascript/tree/main/Conditional_Statement)**
 - **[Logical Operator](https://github.com/hrishipawar24/Learning_Javascript/tree/main/Logical%20Operator)**
 - **[While Loop](https://github.com/hrishipawar24/Learning_Javascript/tree/main/While%20Loop)**
-- **For Loop**
+- **[For Loop](https://github.com/hrishipawar24/Learning_Javascript/tree/main/For%20Loop)**
 - **Nested Loops**
 - **Array**
 - **String**

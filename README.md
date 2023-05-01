@@ -5,7 +5,7 @@
 -  **[Mathematical Operator](https://github.com/hrishipawar24/Learning_Javascript/tree/main/Mathematical%20Operator)**
 - **[Relational Operator](https://github.com/hrishipawar24/Learning_Javascript/tree/main/Relational%20Operator)**
 - **[Conditional Statement](https://github.com/hrishipawar24/Learning_Javascript/tree/main/Conditional_Statement)**
-- **Logical Operator**
+- **[Logical Operator](https://github.com/hrishipawar24/Learning_Javascript/tree/main/Logical%20Operator)**
 - **While Loop**
 - **For Loop**
 - **Nested Loops**

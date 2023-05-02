@@ -10,7 +10,7 @@
 - **[For Loop](https://github.com/hrishipawar24/Learning_Javascript/tree/main/For%20Loop)**
 - **[Nested Loops](https://github.com/hrishipawar24/Learning_Javascript/tree/main/Nested%20Loops)**
 - **[Array](https://github.com/hrishipawar24/Learning_Javascript/tree/main/Array)**
-- **String**
+- **[String](https://github.com/hrishipawar24/Learning_Javascript/tree/main/String)**
 - **Object**
 - **Function**
 - **Object Method**

@@ -8,7 +8,7 @@
 - **[Logical Operator](https://github.com/hrishipawar24/Learning_Javascript/tree/main/Logical%20Operator)**
 - **[While Loop](https://github.com/hrishipawar24/Learning_Javascript/tree/main/While%20Loop)**
 - **[For Loop](https://github.com/hrishipawar24/Learning_Javascript/tree/main/For%20Loop)**
-- **Nested Loops**
+- **[Nested Loops](https://github.com/hrishipawar24/Learning_Javascript/tree/main/Nested%20Loops)**
 - **Array**
 - **String**
 - **Object**

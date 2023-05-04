@@ -11,7 +11,7 @@
 - **[Nested Loops](https://github.com/hrishipawar24/Learning_Javascript/tree/main/Nested%20Loops)**
 - **[Array](https://github.com/hrishipawar24/Learning_Javascript/tree/main/Array)**
 - **[String](https://github.com/hrishipawar24/Learning_Javascript/tree/main/String)**
-- **Object**
+- **[Object](https://github.com/hrishipawar24/Learning_Javascript/tree/main/Object)**
 - **Function**
 - **Object Method**
 - **Multi Dimensional Array**

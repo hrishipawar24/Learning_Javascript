@@ -13,5 +13,5 @@
 - **[String](https://github.com/hrishipawar24/Learning_Javascript/tree/main/String)**
 - **[Object](https://github.com/hrishipawar24/Learning_Javascript/tree/main/Object)**
 - **[Function](https://github.com/hrishipawar24/Learning_Javascript/tree/main/Function)**
-- **Object Method**
+- **[Object Method](https://github.com/hrishipawar24/Learning_Javascript/tree/main/Object%20Method)**
 - **Multi Dimensional Array**
